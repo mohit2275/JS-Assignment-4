@@ -1,0 +1,16 @@
+ASSIGNMENT 4 ANSWERS
+
+ARRAYS = > 
+
+Ans 1 - An Array is a data type in javascript which can be used to store multiple values in a variable. 
+	It's values are inserted in [ ] . We can insert objects in arrays as well..
+Ans 2 - We can declare a variable using the given syntax  -  let arrayName = [ ];
+Ans 3 - We can access an element in the the array using its index number . Index number starts from zero . It is basically the position at which a value is present.
+Ans 4 - We can use the given function to add an element at the end of the array.
+	arrName.push('New')
+Ans 5 - We can use the given function to remove the last element of an array.
+	arrName.pop( ).
+Ans 6 - We can use the given function to add an element at the start of the array.
+	arrName.unshift('New') 
+Ans 7 - We can use the given function to remove the first element of an array.
+	arrayName.shift();
